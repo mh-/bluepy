@@ -35,7 +35,7 @@ For Python 3, you may need to use `pip3`:
     $ sudo apt-get install python3-pip libglib2.0-dev
     $ sudo pip3 install bluepy
 
-*If this fails* you should install from source.
+*If this fails* you should install from source. (For Python 3, you may need to use `python3` instead of `python`.)
 
     $ sudo apt-get install git build-essential libglib2.0-dev
     $ git clone https://github.com/IanHarvey/bluepy.git
